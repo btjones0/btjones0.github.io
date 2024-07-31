@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal
+title: btjones
+logo: assets/img/btjones.jpg
+# description: >
+#   Brian Jones<br>
+#   Office: <a href="assets/img/office.png">14-236</a>
+github:
+  is_user_page: false
