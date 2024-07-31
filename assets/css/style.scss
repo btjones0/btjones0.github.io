@@ -1,0 +1,41 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.wrapper {
+  width:auto;
+}
+
+section {
+  width:auto;
+  max-width:900px;
+  float:none;
+  padding-left:270px;
+}
+
+@media print, screen and (max-width: 960px) {
+  section {
+    padding-left:0px;
+  }
+}
+
+footer {
+  display: none;
+}
+
+// below 1250px, use default css
+// header: 270px
+// section: 900px
+// @media print, screen and (min-width: 1250px) {
+//   .wrapper {
+//     width:100%;
+//   }
+
+//   section {
+//     width:900px;
+//     float:left;
+//     // padding-left:270px; // 270px is width of header
+//   }
+// }
+
