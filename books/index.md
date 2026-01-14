@@ -398,6 +398,8 @@ mental exercise? How are disputes among mathematicians adjudicated? What is a pr
 proofs absolutely certain, immune from rational doubt? What is the logic of mathematics?
 Are there unknowable mathematical truths?
 
+- Hamkins, Joel David. Lectures on the Philosophy of Mathematics. The MIT Press, 2021.
+
 - Shapiro, Stewart. Thinking about mathematics: The philosophy of mathematics. Oxford
   University Press, 2000.
 
@@ -452,6 +454,10 @@ by their philosophic outlook. These books are a bit less philosophical though.
 
 In no particular order.
 
+### Proofs
+
+- Hamkins, Joel David. Proof and the Art of Mathematics. The MIT Press, 2020.
+
 ### Complexity Theory
 
 - Aaronson, Scott. Quantum Computing Since Democritus. Cambridge University Press, 2013.
@@ -468,6 +474,10 @@ In no particular order.
 - Paulson, L. C. ML for the Working Programmer. Cambridge University Press, 1996.
 - Allison, Lloyd. A Practical Introduction to Denotational Semantics. Cambridge
   University Press, 1987.
+
+### Type Theory
+
+- Rijke, Egbert. Introduction to Homotopy Type Theory. Cambridge University Press, 2025.
 
 ### Category Theory
 
