@@ -6,12 +6,12 @@
 |-------------|---------------------------------------------------|-------------|-------------|
 | CSC 101     | Fundamentals of Computer Science                  | 9           | Winter 2022 |
 | CSC 103     | Fundamentals of Computer Science III              | 2           | Fall 2016   |
-| CSC 202     | Data Structures                                   | 9           | Winter 2023 |
+| CSC 202     | Data Structures                                   | 11          | Winter 2026 |
 | CSC 225     | Computer Organization                             | 1           | Fall 2021   |
 | CSC 232     | Computer Programming for Scientists and Engineers | 1           | Spring 2025 |
 | CSC 248/348 | Discrete Structures                               | 6           | Spring 2024 |
 | CSC 349     | Design and Analysis of Algorithms                 | 5           | Fall 2025   |
-| CSC 430     | Programming Languages                             | 14          | Fall 2025   |
+| CSC 430     | Programming Languages                             | 15          | Winter 2026 |
 | CSC 445     | Theory of Computation                             | 10          | Summer 2025 |
 | CSC 530     | Languages and Translators                         | 1           | Fall 2025   |
 | MATH 117    | Precalculus Algebra II                            | 1           | Fall 2013   |
@@ -23,6 +23,9 @@
 
 ## Past Courses
 
+- Winter 2026
+  - CSC 202 (Data Structures) <!-- 2 sections -->
+  - CSC 430 (Programming Languages) <!-- 1 section -->
 - Fall 2025
   - CSC 349 (Design and Analysis of Algorithms) <!-- 1 section -->
   - CSC 430 (Programming Languages) <!-- 1.5 sections -->
