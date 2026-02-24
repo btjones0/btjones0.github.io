@@ -2,9 +2,9 @@
 
 <!-- Using Chicago Style Citations -->
 
-These are some books that I've read and liked in various different mathematical/computer
-science topics. I start with books that are applicable to some classes at Cal Poly and
-then descend into deeper topics.
+These are some books that I've read and liked in various mathematical/computer science
+topics. I start with books that are applicable to some classes at Cal Poly and then
+descend into deeper topics.
 
 - [Introduction to Programming](#introduction-to-programming)
 - [Introduction to Proofs](#introduction-to-proofs)
@@ -48,7 +48,7 @@ accompany a current student.
   Lulu.com, 2019.
 &#10;  An introduction to programming using Python. According to the book description, it's
   used in a course for Master's students with little or no background in programming
-  coming from various different backgrounds.
+  coming from various backgrounds.
 -->
 
 ----------------------------------------------------------------------------------------
@@ -178,9 +178,9 @@ enough that I put them in their own section. They tend to be more theoretical
 
 - Hindley, J. Roger. Basic Simple Type Theory. Cambridge University Press, 2008.
 
-  This is also very theoretical and could also arguable go in the Lambda Calculus
-  section. It largely covers type assignment: given an expression determine all possible
-  types that could be assigned to it.
+  This is also theoretical and could also arguable go in the Lambda Calculus section. It
+  largely covers type assignment: given an expression determine all possible types that
+  could be assigned to it.
 
 <!--
 - Harper, Robert. Practical Foundations for Programming Languages. Cambridge University
@@ -191,9 +191,9 @@ enough that I put them in their own section. They tend to be more theoretical
 
 ## Lambda Calculus
 
-Lambda calculus is part programming, part mathematical logic. It's arguably the first
-programming language, predating computers by a few decades. In particular, it's the
-backbone of functional programming languages.
+The lambda calculus is part programming, part mathematical logic. It's arguably the
+first programming language, predating computers by a few decades. In particular, it's
+the backbone of functional programming languages.
 
 - Michaelson, Greg. An Introduction to Functional Programming Through Lambda Calculus.
   Dover Publications, 2011.
@@ -215,7 +215,7 @@ backbone of functional programming languages.
 
 ## Category Theory
 
-This starts to deviate quite a bit from practical computer science into very
+This starts to deviate quite a bit from practical computer science into abstract
 mathematical topics. There is a large overlap/intertwining with certain parts of type
 theory. A lot of category theory is quite abstract (sometimes called "abstract
 nonsense") and heavily utilizes examples for intuition. A strong differentiator in
@@ -350,14 +350,13 @@ in the following more recent books.
   Systems. Dover Publications, 1992.
 
   This is a translation (the original was German) of Gödel's 1932 paper. I wouldn't
-  necessarily read this, but it's very short and looks nice on a bookshelf.
+  necessarily read this, but it's quite short and looks nice on a bookshelf.
 
 - Petzold, Charles. The Annotated Turing: A Guided Tour Through Alan Turing’s Historic
   Paper on Computability and the Turing Machine. Wiley Publishing, 2008.
 
   Charles Petzold goes though the entirety of Turing's 1936 paper and explains it in
-  order *very* thoroughly. The first couple chapters are mathematical and historical
-  context.
+  order thoroughly. The first couple chapters are mathematical and historical context.
 
 - Heijenoort, Jean van. From Frege to Gödel: A Source Book in Mathematical Logic,
   1879–1931. Harvard University Press, 1967.
@@ -376,10 +375,10 @@ in the following more recent books.
 
 ## Set Theory
 
-Set theory is the modern foundation for most of mathematics. Properly explaining a lot
-of the nitty-gritty details is hard. Ernst Zermelo and later Abraham Fraenkel were two
-people who worked on properly defining what is a set and what operations are allowed
-when working with them.
+Typically, set theory is used as the modern foundation for most of mathematics. Properly
+explaining a lot of the nitty-gritty details is hard. Ernst Zermelo and later Abraham
+Fraenkel were two people who worked on properly defining what is a set and what
+operations are allowed when working with them.
 
 - Goldrei, Derek. Classic Set Theory: For Guided Independent Study. Chapman & Hall,
   1996.
@@ -445,8 +444,7 @@ by their philosophic outlook. These books are a bit less philosophical though.
 
   I don't really know where to categorize this book. It's not quite history, but it's
   not quite not history. That said, I really like this book. It goes into detail about
-  how a computer is built starting from very simple components and building up from
-  there.
+  how a computer is built starting from simple components and building up from there.
 
 ----------------------------------------------------------------------------------------
 
