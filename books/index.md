@@ -496,6 +496,15 @@ In no particular order.
 - van Dalen, Dirk. Logic and Structure. Springer, 2012.
 - Bacon, Andrew. A Philosophical Introduction to Higher-order Logics. Routledge, 2023.
 
+### Reverse Mathematics
+
+- Stillwell, John. Reverse Mathematics: Proofs from the Inside Out. Princeton University
+  Press, 2018.
+- Dzhafarov, Damir D. and Carl Mummert. Reverse Mathematics: Problems, Reductions, and
+  Proofs. Springer, 2022.
+- Hirschfeldt, Denis R. Slicing the Truth: On the Computable and Reverse Mathematics of
+  Combinatorial Principles. World Scientific Publishing Company, 2015.
+
 ### History / History Adjacent
 
 - Moore, Gregory H. Zermelo’s Axiom of Choice: Its Origins, Development, & Influence.
