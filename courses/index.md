@@ -11,8 +11,8 @@
 | CSC 232     | Computer Programming for Scientists and Engineers | 1           | Spring 2025 |
 | CSC 248/348 | Discrete Structures                               | 6           | Spring 2024 |
 | CSC 349     | Design and Analysis of Algorithms                 | 5           | Fall 2025   |
-| CSC 430     | Programming Languages                             | 15          | Winter 2026 |
-| CSC 445     | Theory of Computation                             | 10          | Summer 2025 |
+| CSC 430     | Programming Languages                             | 17          | Spring 2026 |
+| CSC 445     | Theory of Computation                             | 11          | Spring 2026 |
 | CSC 530     | Languages and Translators                         | 1           | Fall 2025   |
 | MATH 117    | Precalculus Algebra II                            | 1           | Fall 2013   |
 | MATH 118    | Precalculus Algebra                               | 4           | Fall 2015   |
@@ -23,6 +23,9 @@
 
 ## Past Courses
 
+- Spring 2026
+  - CSC 430 (Programming Languages) <!-- 2 sections -->
+  - CSC 445 (Theory of Computation) <!-- 1 section -->
 - Winter 2026
   - CSC 202 (Data Structures) <!-- 2 sections -->
   - CSC 430 (Programming Languages) <!-- 1 section -->
