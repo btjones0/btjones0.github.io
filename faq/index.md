@@ -1,5 +1,29 @@
 # FAQ (or at least AQ)
 
+## Spring 2026
+
+- CSC 430
+
+  > Do you think mathematics was created or discovered?
+
+  Personally, I'm of the opinion that it's a mix of both. Mathematicians often create
+  their own definitions for things that are interesting in their opinion and then
+  discover what follows from those definitions.
+
+  > Besides Racket, are there any programming languages you'd recommend we study to
+  > understand how they work? (Just out of curiosity!)
+
+  If you want to dive deep into some extremely niche programming languages, I quite like
+  the language Agda. [Programming Language Foundations in Agda](https://plfa.github.io/)
+  is a good book for learning Agda/learning some deeply theoretical results in the world
+  of programming languages. It is well beyond the scope of this class.
+
+  More practically, it's generally nice to experience a whole host of languages just to
+  see what makes them different from the ones that you've already seen. Rust is a good
+  example of a language that has some cool differences from most other languages.
+
+- CSC 445
+
 ## Winter 2026
 
 - CSC 202
