@@ -139,8 +139,8 @@
   > Recommended study time for this course?
 
   You're probably asking about duration not time of day, but I'll answer both! For time
-  of day, I'd recommend before 10 pm. I don't think good studying typically happens
-  after 10 pm. I would strongly advise against trying to stay up all night studying.
+  of day, I'd recommend before 10 p.m. I don't think good studying typically happens
+  after 10 p.m. I would strongly advise against trying to stay up all night studying.
 
   For duration, Cal Poly suggests you should be spending 6 hours per week outside of
   class time working on this class. That should account for assignments and for other
@@ -154,8 +154,7 @@
 
   > Do you have any other tips on practicing the AST or concrete syntax for the quizzes?
 
-  Writing a lot of good tests for every assignment 3 and onward. Lab 6 will also
-  (hopefully) help.
+  Writing a lot of good tests for every assignment 3 and onward. Lab 6 should also help.
 
   > What is the most troublesome portion of the course?
 
@@ -230,7 +229,7 @@
   > Why did we not get a classroom in the new Frost center? Are we not special enough?
 
   Most of the building is reserved lab space. I believe the only general purpose lecture
-  rooms are for very large lectures (e.g., my CSC 445 section this quarter has 100
+  rooms are for rather large lectures (e.g., my CSC 445 section this quarter has 100
   students and is in 181-102).
 
   > Why must we use Racket?
@@ -287,11 +286,11 @@
   Discrete structures contains a lot of the mathematics that we will need in order to
   prove cool things about computation.
 
-  Algorithms is very focused on taking problems that we can definitely solve with
+  Algorithms is heavily focused on taking problems that we can definitely solve with
   computers and figuring out how to solve them "well" (for some definition of well). The
   majority of this course will be focusing on problems (that we might be able to solve
   with computers) and figuring out if we can or can't actually solve them at all. The
-  very end of the course will overlap a bit with the end of algorithms (P and NP related
+  end of the course will overlap a bit with the end of algorithms (P and NP related
   topics).
 
   > I would love to know the course structure and what to expect from the class. Also
@@ -308,11 +307,11 @@
   direct, contraposition, contradiction, induction) and have exposure to various common
   mathematical objects (e.g., sets, graphs).
 
-  > For lecture notes it says that the notes need to be posted by 6pm the day of the
-  > lecture but lecture is 6:10pm to 8pm. When should we have it up in that case?
+  > For lecture notes it says that the notes need to be posted by 6 p.m. the day of the
+  > lecture but lecture is 6:10 p.m. to 8 p.m. When should we have it up in that case?
 
   Ah, that's what happens when I copy a syllabus from a different term. This has been
-  updated to say 6pm the following day.
+  updated to say 6 p.m. the following day.
 
   > How many hours do you believe should be put into studying for this class? Should I
   > expect this class to be on par with a normal CS course worth of time, or should I
@@ -344,7 +343,7 @@
   > Would you share real live examples of related concepts?
 
   Historically, this is the origin of the field of computer science. Everything that
-  comes after builds off of what we're going to be learning.
+  comes after builds from what we're going to be learning.
 
   Slightly more practically, we're going to discuss various computation problems that
   computers are unable to solve and would be a fool's errand to try to write code for.
