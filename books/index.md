@@ -466,6 +466,13 @@ In no particular order.
 - Boolos, George S., John P. Burgess, and Richard C. Jeffrey. Computability and Logic.
   Cambridge University Press, 2007.
 - Soare, Robert I. Turing Computability: Theory and Applications. Springer, 2018.
+- Cutland, N. J. Computability: An Introduction to Recursive Function Theory. Cambridge
+  University Press, 1980.
+- Weber, Rebecca. Computability Theory. American Mathematical Society, 2012.
+- Rogers, Hartley. Theory of Recursive Functions and Effective Computability. The MIT
+  Press, 1987.
+- Davis, Martin, Ron Sigal, and Elaine Weyuker. Computability, Complexity, and
+  Languages. Morgan Kaufmann, 1994.
 
 ### Functional Programming
 
