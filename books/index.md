@@ -210,6 +210,10 @@ programming languages.
 - Hindley, J. Roger, and Jonathan P. Seldin. Lambda-Calculus and Combinators, an
   Introduction. Cambridge University Press, 2010.
 
+  A comprehensive introduction to lambda calculus with strong mathematical emphasis. It
+  develops the theory carefully and also contrasts it with a related theory of
+  combinatory logic.
+
 - Barendregt, Henk P. The Lambda Calculus, its Syntax and Semantics. College
   Publications, 2012.
 
