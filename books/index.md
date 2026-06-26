@@ -81,7 +81,7 @@ are some books you might like!
 - Friedman, Daniel P., and Matthias Felleisen. The Little Schemer. The MIT Press, 1996.
 
   An introduction to functional programming in Scheme. If you've taken CSC 430, most of
-  this *should* be review. The last few chapters are possibly new (and there's a cool
+  this *should* be a review. The last few chapters are possibly new (and there's a cool
   derivation of the Y combinator).
 
 - Friedman, Daniel P., and Matthias Felleisen. The Seasoned Schemer. The MIT Press,
@@ -92,9 +92,9 @@ are some books you might like!
 
 - Okasaki, Chris. Purely Functional Data Structures. Cambridge University Press, 1998.
 
-  In CSC 202, you learn several data structures. Many of those probably involve mutation
-  (e.g., every structure involving arrays). These structures often rely on mutation, but
-  this book explores several that can be implemented *purely* functionally.
+  In CSC 202, you learn several data structures. Many of those heavily rely on mutation
+  (especially structures built from arrays). This book explores several efficient data
+  structures that can be implemented *purely* functionally.
 
 ### Implementing a Programming Language
 
@@ -152,7 +152,7 @@ enough that I put them in their own section. They tend to be more theoretical
   2018.
 
   This is a fun introduction to dependent types in an incredibly small language called
-  pie (the whole book is full of food puns). The book moves somewhat slowly but then
+  pie (the entire book is full of food puns). The book moves somewhat slowly but then
   some of the topics are quite strange at first.
 
 - Pierce, Benjamin C. Types and Programming Languages. The MIT Press, 2002.
@@ -179,7 +179,7 @@ enough that I put them in their own section. They tend to be more theoretical
   This is dramatically more theoretical than the above books (and could arguably go in
   the next section on [Lambda Calculus](#lambda-calculus)). The first several chapters
   build up the syntax and semantics of dependent types. It then uses such a system to
-  build definitions and mathematical proof.
+  build definitions and mathematical proofs.
 
 - Hindley, J. Roger. Basic Simple Type Theory. Cambridge University Press, 2008.
 
@@ -223,15 +223,15 @@ programming languages.
 This starts to deviate quite a bit from practical computer science into abstract
 mathematical topics. There is a large overlap/intertwining with certain parts of type
 theory. A lot of category theory is quite abstract (sometimes jokingly called "abstract
-nonsense") and heavily utilizes examples for intuition. A strong differentiator in
-introductory books is what mathematical background is needed to understand the examples.
-Several of the books I have in this section are specifically aimed at computer
+nonsense") and heavily utilizes examples for intuition. One of the biggest differences
+between introductory texts is in the mathematical background they assume for their
+examples. Several of the books I have in this section are specifically aimed at computer
 scientists.
 
 ### Introduction
 
-- Lawvere, F. William, and Stephen H. Schanuel. Conceptual Mathematics: A first
-  introduction to categories. Cambridge University Press, 2009.
+- Lawvere, F. William, and Stephen H. Schanuel. Conceptual Mathematics: A First
+  Introduction to Categories. Cambridge University Press, 2009.
 
   Possibly the gentlest introduction to category theory I've found. It assumes little
   prior mathematical knowledge.
@@ -277,8 +277,8 @@ scientists.
 
 - Mac Lane, Saunders. Categories for the Working Mathematician. Springer, 1971.
 
-  Saunders Mac Lane is the father of category theory. This is the original introduction
-  to category theory. It is the classic reference.
+  Saunders Mac Lane was one of the founders of category theory. This is the original
+  introduction to category theory. It is the classic reference.
 
   > All told, a monad in X is just a monoid in the category of endofunctors of X, with
   > product × replaced by composition of endofunctors and unit set by the identity
@@ -292,8 +292,8 @@ scientists.
 - Lawvere, F. William, and Robert Rosebrugh. Sets for Mathematics. Cambridge University
   Press, 2003.
 
-  Mathematics is traditionally (by traditionally, I mean since the mid 1900s) been
-  grounded in a theory of sets. But it doesn't have to be! This book describes how to
+  Mathematics has traditionally (at least since the twentieth century) been grounded in
+  axiomatic set theory. But it doesn't have to be! This book describes how to
   axiomatically describe sets using category theory. It doesn't require much category
   theory background, but it doesn't hurt.
 
@@ -439,7 +439,7 @@ by their philosophic outlook. These books are a bit less philosophical though.
   Society, 2006.
 
   There was (possibly still is) a secret society of French mathematicians that had an
-  enormous influence on twentieth century French mathematics, and to some extent much of
+  enormous influence on twentieth-century French mathematics, and to some extent much of
   modern mathematics.
 
 - Martin, Robert C. We, Programmers: A Chronicle of Coders from Ada to AI.
