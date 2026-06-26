@@ -60,7 +60,7 @@ here are some books you might like.
 
 - Cummings, Jay. Proofs: A long-Form Mathematics Textbook. Jay Cummings, 2021.
 
-  This is an enormous book for learning mathematical proofs. It's largely intended for
+  This is an enormous book for learning mathematical proofs. It's largely designed for
   self study which means it has an extensive amount of detail.
 
 - Hamkins, Joel David. Proof and the Art of Mathematics. The MIT Press, 2020.
@@ -78,7 +78,7 @@ are some books you might like!
 
 ### Functional Programming
 
-- Friedman, David P., and Matthias Felleisen. The Little Schemer. The MIT Press, 1996.
+- Friedman, Daniel P., and Matthias Felleisen. The Little Schemer. The MIT Press, 1996.
 
   An introduction to functional programming in Scheme. If you've taken CSC 430, most of
   this *should* be review. The last few chapters are possibly new (and there's a cool
@@ -92,10 +92,9 @@ are some books you might like!
 
 - Okasaki, Chris. Purely Functional Data Structures. Cambridge University Press, 1998.
 
-  In CSC 202, you learn several data structures. Many of those probably involve
-  mutations (e.g., every structure involving arrays). These structures don't work well
-  if you want to do without mutation, but there are several data structures that can be
-  implemented *purely* functionally.
+  In CSC 202, you learn several data structures. Many of those probably involve mutation
+  (e.g., every structure involving arrays). These structures often rely on mutation, but
+  this book explores several that can be implemented *purely* functionally.
 
 ### Implementing a Programming Language
 
@@ -158,20 +157,20 @@ enough that I put them in their own section. They tend to be more theoretical
 
 - Pierce, Benjamin C. Types and Programming Languages. The MIT Press, 2002.
 
-  This book is an introduction to type systems and to basic type theory. It's mostly
-  grounded in implementation with theory when relevant.
+  This book is an introduction to type systems and to basic type theory. It balances
+  implementation with the underlying theory.
 
 - Stump, Aaron. Verified Functional Programming in Agda. Association for Computing
   Machinery and Morgan & Claypool, 2016.
 
   Agda is a dependently typed programming language/type theory playground. This book is
-  aimed at writing algorithms and proving they're correct. And for some algorithms
-  "internally" proving they're correct.
+  aimed at writing algorithms and proving they're correct, including some algorithms
+  that "internally" carry proofs of correctness.
 
 - Brady, Edwin. Type-Driven Development with Idris. Manning Publications Co, 2017.
 
   Idris is a dependently typed programming language intended as a general purpose
-  language. This book given an introduction to the language along with details about
+  language. This book gives an introduction to the language along with details about
   dependent types.
 
 - Nederpelt, Rob, and Herman Geuvers. Type Theory and Formal Proof: An Introduction.
@@ -179,12 +178,12 @@ enough that I put them in their own section. They tend to be more theoretical
 
   This is dramatically more theoretical than the above books (and could arguably go in
   the next section on [Lambda Calculus](#lambda-calculus)). The first several chapters
-  build up the syntax and semantics of dependant types. It then uses such a system to
+  build up the syntax and semantics of dependent types. It then uses such a system to
   build definitions and mathematical proof.
 
 - Hindley, J. Roger. Basic Simple Type Theory. Cambridge University Press, 2008.
 
-  This is also theoretical and could also arguable go in the Lambda Calculus section. It
+  This is also theoretical and could also arguably go in the Lambda Calculus section. It
   largely covers type assignment: given an expression determine all possible types that
   could be assigned to it.
 
@@ -197,9 +196,9 @@ enough that I put them in their own section. They tend to be more theoretical
 
 ## Lambda Calculus
 
-The lambda calculus is part programming, part mathematical logic. It's arguably the
-first programming language, predating computers by a few decades. In particular, it's
-the backbone of functional programming languages.
+The lambda calculus is part programming, part mathematical logic. It's one of the
+earlier formal models of computation and heavily influenced modern functional
+programming languages.
 
 - Michaelson, Greg. An Introduction to Functional Programming Through Lambda Calculus.
   Dover Publications, 2011.
@@ -223,10 +222,11 @@ the backbone of functional programming languages.
 
 This starts to deviate quite a bit from practical computer science into abstract
 mathematical topics. There is a large overlap/intertwining with certain parts of type
-theory. A lot of category theory is quite abstract (sometimes called "abstract
+theory. A lot of category theory is quite abstract (sometimes jokingly called "abstract
 nonsense") and heavily utilizes examples for intuition. A strong differentiator in
-introductory books is what background is needed to understand the examples. Several of
-the books I have in this section are specifically aimed at computer scientists.
+introductory books is what mathematical background is needed to understand the examples.
+Several of the books I have in this section are specifically aimed at computer
+scientists.
 
 ### Introduction
 
@@ -300,7 +300,7 @@ the books I have in this section are specifically aimed at computer scientists.
   It might be nice to read some [axiomatic set theory](#set-theory) first as a contrast.
   The Goldrei (Classic Set Theory) is my favorite.
 
-- Lambek, J., and P. J. Scott. Introduction to higher order categorical logic. Cambridge
+- Lambek, J., and P. J. Scott. Introduction to Higher Order Categorical Logic. Cambridge
   University Press, 1988.
 
   Here we look at category theory as a logic foundation. This jumps right in and expects
@@ -319,7 +319,7 @@ the books I have in this section are specifically aimed at computer scientists.
 We don't really have a course at Cal Poly going into serious study of mathematical
 logic. We have a brief introduction, but we don't see any deep results (e.g., soundness,
 completeness, and compactness of first-order logic). We also don't really *need* any of
-those result, but some of them (e.g., Gödel's incompleteness theorems) are relevant to
+those results, but some of them (e.g., Gödel's incompleteness theorems) are relevant to
 computer science. More on Gödel's incompleteness specifically in
 [Incompleteness/Undecidability](#incompletenessundecidability).
 
@@ -349,19 +349,19 @@ in the following more recent books.
 
 - Nagel, Ernest, and James R. Newman. Gödel’s Proof. New York University Press, 2001.
 
-  This is an explanation of Gödel's incompleteness theorems proofs to make it more
-  digestible than the original.
+  This is an explanation of Gödel's incompleteness theorems and their proofs to make it
+  more digestible than the original.
 
 - Gödel, Kurt. On Formally Undecidable Propositions of Principia Mathematica and Related
   Systems. Dover Publications, 1992.
 
-  This is a translation (the original was German) of Gödel's 1932 paper. I wouldn't
+  This is a translation (the original was German) of Gödel's 1931 paper. I wouldn't
   necessarily read this, but it's quite short and looks nice on a bookshelf.
 
 - Petzold, Charles. The Annotated Turing: A Guided Tour Through Alan Turing’s Historic
   Paper on Computability and the Turing Machine. Wiley Publishing, 2008.
 
-  Charles Petzold goes though the entirety of Turing's 1936 paper and explains it in
+  Charles Petzold goes through the entirety of Turing's 1936 paper and explains it in
   order thoroughly. The first couple chapters are mathematical and historical context.
 
 - Heijenoort, Jean van. From Frege to Gödel: A Source Book in Mathematical Logic,
@@ -381,10 +381,10 @@ in the following more recent books.
 
 ## Set Theory
 
-Typically, set theory is used as the modern foundation for most of mathematics. Properly
-explaining a lot of the nitty-gritty details is hard. Ernst Zermelo and later Abraham
-Fraenkel were two people who worked on properly defining what is a set and what
-operations are allowed when working with them.
+Typically, set theory is used as the standard foundation for most of classical
+mathematics. Properly explaining a lot of the nitty-gritty details is hard. Ernst
+Zermelo and later Abraham Fraenkel were two people who worked on properly defining what
+is a set and what operations are allowed when working with them.
 
 - Goldrei, Derek. Classic Set Theory: For Guided Independent Study. Chapman & Hall,
   1996.
@@ -405,7 +405,7 @@ Are there unknowable mathematical truths?
 
 - Hamkins, Joel David. Lectures on the Philosophy of Mathematics. The MIT Press, 2021.
 
-- Shapiro, Stewart. Thinking about mathematics: The philosophy of mathematics. Oxford
+- Shapiro, Stewart. Thinking About Mathematics: The Philosophy of Mathematics. Oxford
   University Press, 2000.
 
 - Giaquinto, Marcus. The Search for Certainty: A Philosophical Account of Foundations of
@@ -432,15 +432,15 @@ by their philosophic outlook. These books are a bit less philosophical though.
 
   This is a graphic novel about foundations of mathematics. It largely follows Bertrand
   Russell in his quest to lay down the "axioms" of mathematics. It's (to my
-  understanding) roughly historically accurate with some creative liberties to shorten
-  the story at times.
+  understanding) historically grounded but takes some creative liberties to shorten the
+  story at times.
 
 - Mashaal, Maurice. Bourbaki: A Secret Society of Mathematicians. American Mathematical
   Society, 2006.
 
-  There was (possibly still is) a secret society of French mathematicians that steered
-  the direction of French mathematics (and to some extent global mathematics) for a few
-  decades.
+  There was (possibly still is) a secret society of French mathematicians that had an
+  enormous influence on twentieth century French mathematics, and to some extent much of
+  modern mathematics.
 
 - Martin, Robert C. We, Programmers: A Chronicle of Coders from Ada to AI.
   Addison-Wesley, 2024.
