@@ -63,6 +63,12 @@ here are some books you might like.
   This is an enormous book for learning mathematical proofs. It's largely intended for
   self study which means it has an extensive amount of detail.
 
+- Hamkins, Joel David. Proof and the Art of Mathematics. The MIT Press, 2020.
+
+  This is a large collection of proof examples. It has some quite interesting examples
+  for a wide variety of topics. If you're not sure what a proof should look like or
+  you're not sure what a proof really is, this is a great book to find out!
+
 ----------------------------------------------------------------------------------------
 
 ## Programming Languages
@@ -451,10 +457,6 @@ by their philosophic outlook. These books are a bit less philosophical though.
 ## Books I Plan to Read
 
 In no particular order.
-
-### Proofs
-
-- Hamkins, Joel David. Proof and the Art of Mathematics. The MIT Press, 2020.
 
 ### Complexity Theory
 
