@@ -137,7 +137,15 @@ are some books you might like!
 
   This is the book that I teach theory of computation out of. It starts with simpler
   models of computation (finite automata and then pushdown automata) before getting to
-  Turing machines. I quite like it.
+  Turing machines. It's a good introduction to the subject.
+
+- Davis, Martin, Ron Sigal, and Elaine Weyuker. Computability, Complexity, and
+  Languages. Morgan Kaufmann, 1994.
+
+  This goes a bit more in depth on the mathematics compared to the Sipser. The order of
+  topics is a little different (e.g., Turing machines before automata) and there are
+  large section covering logic and programming language semantics. I quite like this
+  book.
 
 ----------------------------------------------------------------------------------------
 
@@ -477,8 +485,6 @@ In no particular order.
 - Weber, Rebecca. Computability Theory. American Mathematical Society, 2012.
 - Rogers, Hartley. Theory of Recursive Functions and Effective Computability. The MIT
   Press, 1987.
-- Davis, Martin, Ron Sigal, and Elaine Weyuker. Computability, Complexity, and
-  Languages. Morgan Kaufmann, 1994.
 
 ### Functional Programming
 
