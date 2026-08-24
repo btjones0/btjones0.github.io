@@ -1,5 +1,70 @@
 # FAQ (or at least AQ)
 
+## Fall 2026
+
+- CSC 2001
+
+  > What do we typically do during labs? Does it directly apply our learnings from
+  > lecture?
+
+  Frequently this will be time you can work on the labs and assignments for the class.
+  We will also have periodic roughly 20 minute quizzes during lab time (at most once per
+  week). There is also a tentative plan to do some activities during lab to give you a
+  time and place to check how well you're understanding the material and get immediate
+  feedback.
+
+  > What are good programming languages that can help transition well into other
+  > languages (ex. I've heard learning C makes C# and C++ easier)?
+
+  There's a lot of subjectivity here based on what you think you would like to learn in
+  the future.
+
+  - C is nice to learn because many more modern languages have drawn heavy inspiration
+    from C, but there are lots of thorns that more modern languages also tend to do
+    better.
+  - With a strong bias, I quite like racket which is probably completely different from
+    any language you've used before (and possibly any language you'd ever use). It has a
+    strong root in computer science education and forcing certain design decisions when
+    writing code which (in my opinion) enforce better habits. The book [How to Design
+    Programs](https://htdp.org/) is a reasonably nice introduction to programming using
+    the racket language.
+
+  > What is the most interesting thing you have seen in code or done using code?
+
+  My idea of "interesting" might differ from yours, but I'm a large fan of proof
+  assistant programming languages (e.g. Agda and Lean) which are used to verify the
+  correctness of mathematical proof. The entirety of Lean's
+  [mathlib](https://github.com/leanprover-community/mathlib4) is really cool.
+
+  > What programming language do you think is the most universally useful?
+
+  I don't really have an answer to this, most languages are used for different purposes.
+  I quite like Python for how easy it is to get something working relatively easily.
+
+  > What is the most interesting/coolest data structure?
+
+  Of the data structures we're going to learn, the hash table is probably the most
+  widely used data structure.
+
+  Of data structures we're not going to learn, I think Braun trees are cool.
+
+  > What’s the best way for me to get ahead in this course?
+
+  Doing the labs and assignments as soon as they are posted is probably the best way to
+  stay on top of the material.
+
+  > I noticed that previous years of this course used Python instead of Java. Is there a
+  > reason for the switch?
+
+  With the change from quarters to semesters happening this year, many of the courses in
+  the curriculum had to be changed/redesigned. Java is an rather prominent programming
+  language in the world, and seeing it at some point in the beginning of the curriculum
+  is probably a good idea.
+
+  > What is your late assignment policy?
+
+  Generally late assignments are not accepted.
+
 ## Spring 2026
 
 - CSC 430
@@ -21,8 +86,6 @@
   More practically, it's generally nice to experience a whole host of languages just to
   see what makes them different from the ones that you've already seen. Rust is a good
   example of a language that has some cool differences from most other languages.
-
-- CSC 445
 
 ## Winter 2026
 
