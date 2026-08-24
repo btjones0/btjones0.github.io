@@ -115,6 +115,17 @@
   portions of a class might be completely separate, but at least in Computer Science,
   our labs are typically going to be extensions of the lecture.
 
+  > Will we need textbooks?
+
+  Nope!
+
+  > Are there any resources you recommend that I can use to sharpen my skills on the
+  > side?
+
+  At least at the start of the semester, I would focus on the labs and projects for this
+  class. If you're still feeling like you want more resources, feel free to ask again or
+  come to office hours with your questions.
+
 ## Spring 2026
 
 - CSC 430
