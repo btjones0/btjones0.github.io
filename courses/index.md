@@ -1,6 +1,19 @@
 # Courses Taught
 
-## Summary
+## Summary (Semesters)
+
+| Course   | Title                 | \# Sections | Last Taught |
+|----------|-----------------------|-------------|-------------|
+| CSC 2001 | Data Structures       | 2           | Fall 2026   |
+| CSC 3300 | Programming Languages | 2           | Fall 2026   |
+
+## Past Courses (Semesters)
+
+- Fall 2026
+  - CSC 2001 (Data Structures) <!-- 2 sections -->
+  - CSC 3300 (Programming Languages) <!-- 2 sections -->
+
+## Summary (Quarters)
 
 | Course      | Title                                             | \# Sections | Last Taught |
 |-------------|---------------------------------------------------|-------------|-------------|
@@ -21,7 +34,7 @@
 | MATH 142    | Calculus II                                       | 2           | Winter 2021 |
 | MATH 221    | Calculus for Business and Economics               | 5           | Winter 2021 |
 
-## Past Courses
+## Past Courses (Quarters)
 
 - Spring 2026
   - CSC 430 (Programming Languages) <!-- 2 sections -->
