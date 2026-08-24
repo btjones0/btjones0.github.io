@@ -104,6 +104,17 @@
   I would be extremely surprised if there were. Honestly in an ideal world everyone
   would be using a Unix-based operating system.
 
+  > I was wondering how does CSC 2001L relate to the lecture is the lab graded
+  > separately, and should I be preparing for it differently?
+
+  It's really one class that is separated out into a lecture portion and a lab portion.
+  Part of the reason for that is that the units work differently for a lecture compared
+  to a lab. But it's all the same grade and the same material.
+
+  Slight disclaimer, there are other departments at Cal Poly where the lecture and lab
+  portions of a class might be completely separate, but at least in Computer Science,
+  our labs are typically going to be extensions of the lecture.
+
 ## Spring 2026
 
 - CSC 430
