@@ -65,6 +65,45 @@
 
   Generally late assignments are not accepted.
 
+  > I saw in the FAQ that we will be using Java. I was wondering what the main tool
+  > setup for the course will look like
+
+  We're going to walk through this in lab 1 (so you don't need to do anything right this
+  second if you're reading this before lab 1), but to answer your specifics:
+
+  - > for example, the recommended IDE
+
+    We're going to recommend IntelliJ
+
+  - > JDK version
+
+    25 or 26.
+
+  - > testing tools
+
+    We're going to be using JUnit for unit testing.
+
+  - > Git
+
+    Lab 1 has you install GitHub desktop, but you're also welcome to so something else
+    if you're comfortable with something else.
+
+  - > and whether there is anything worth installing or preparing before the first lab.
+
+    Not really, lab 1 will largely be walking you though the setup.
+
+  > How distanced/ahead is this course's material from the typical AP CSA syllabus?
+
+  I'm not 100% sure what's in AP CSA, but it shouldn't necessarily overlap all too much.
+  You've possibly used certain data structures in Java in AP CSA (e.g. `ArrayList`), but
+  probably didn't learn about how they work under the hood. A lot of this course will be
+  focusing on the under the hood aspects of how do data structures do what they do.
+
+  > Is there anything throughout the course that I can’t do on Linux?
+
+  I would be extremely surprised if there were. Honestly in an ideal world everyone
+  would be using a Unix-based operating system.
+
 ## Spring 2026
 
 - CSC 430
