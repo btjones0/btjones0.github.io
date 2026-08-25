@@ -126,6 +126,13 @@
   class. If you're still feeling like you want more resources, feel free to ask again or
   come to office hours with your questions.
 
+- CSC 3300
+
+  > Are there any concepts or skills that we should review to prepare for this course?
+
+  If you have time in the next day, maybe brush up on recursion? We will be doing a lot
+  of recursion.
+
 ## Past term
 
 [Link to past term questions](past_terms)
