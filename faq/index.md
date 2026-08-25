@@ -133,6 +133,6 @@
   If you have time in the next day, maybe brush up on recursion? We will be doing a lot
   of recursion.
 
-## Past term
+## Previous terms
 
-[Link to past term questions](past_terms)
+[Link to previous term questions](previous_terms)
