@@ -503,10 +503,13 @@ In no particular order.
   Cambridge University Press, 2023.
 - Pavlovic, Dusko. Programs as Diagrams: From Categorical Computability to Computable
   Categories. Springer, 2024.
+- Yanofsky, Noson. Monoidal Category Theory: Unifying Concepts in Mathematics, Physics,
+  and Computing. The MIT Press, 2024.
 
 ### Algebra
 
 - Aluffi, Paolo. Algebra: Notes from the Underground. Cambridge University Press, 2021.
+- Aluffi, Paolo. Algebra: Chapter 0. American Mathematical Society, 2009.
 
 ### Foundations / Logic
 
@@ -514,6 +517,7 @@ In no particular order.
   2012.
 - van Dalen, Dirk. Logic and Structure. Springer, 2012.
 - Bacon, Andrew. A Philosophical Introduction to Higher-order Logics. Routledge, 2023.
+- Avigad, Jeremy. Mathematical Logic and Computation. Cambridge University Press, 2022.
 
 ### Reverse Mathematics
 
